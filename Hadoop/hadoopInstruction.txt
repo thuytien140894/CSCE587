@@ -1,0 +1,7 @@
+# Connect to the hadoop virtual machine, password = Vietnam@2015
+
+ssh -p222 vm-hadoop-11.cse.sc.edu -l student
+
+# copy file directly from the laptop to the virtual machine
+
+scp -P222 file_name student@vm-hadoop-11.cse.sc.edu:/home/student/
