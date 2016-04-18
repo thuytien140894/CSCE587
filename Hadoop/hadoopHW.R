@@ -1,3 +1,7 @@
+# Connect to R Studio in Hadoop using
+# website: vm-hadoop-11.cse.sc.edu:8787
+# username: student
+# password: same_as_the_lab
 # Set environmental variables
 Sys.setenv(HADOOP_CMD="/usr/bin/hadoop")
 Sys.setenv(HADOOP_STREAMING="/usr/hdp/2.3.0.0-2557/hadoop-mapreduce/hadoop-streaming-2.7.1.2.3.0.0-2557.jar")

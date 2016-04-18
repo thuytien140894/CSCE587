@@ -1,4 +1,4 @@
-# Connect to the hadoop virtual machine, password = Vietnam@2015
+# Connect to the hadoop virtual machine
 
 ssh -p222 vm-hadoop-11.cse.sc.edu -l student
 
